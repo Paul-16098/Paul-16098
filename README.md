@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Paul-16098
-- 🌱 I’m currently learning js
+#
+
+- 嗨，我是@Paul-16098
+- 我目前正在學習js
 
 <!---
-Paul-16098/Paul-16098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Paul-16098/Paul-16098 是一個 ✨ 特殊 ✨ 儲存庫，因為它的「README.md」（此檔案）出現在您的 GitHub 個人資料上。
+您可以點擊預覽連結以查看您的變更。
 --->

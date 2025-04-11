@@ -25,3 +25,4 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_languages_other: true
           plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_user: Paul_16098

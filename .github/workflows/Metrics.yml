@@ -19,7 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_T }}
 
           # Options
-          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Etc/GMT-8
           # Plugins Options

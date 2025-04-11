@@ -4,6 +4,8 @@ on:
   schedule: [{ cron: "0 0 * * *" }]
   # (optional) Run workflow manually
   workflow_dispatch:
+  push:
+    paths: .github/workflows/Metrics.yml
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,3 +17,12 @@ jobs:
       - uses: lowlighter/metrics@main
         with:
           token: ${{ secrets.METRICS_T }}
+
+          # Options
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          config_timezone: Etc/GMT-8
+          # Plugins Options
+          plugin_wakatime: yes
+          plugin_wakatime_languages_other: true
+          plugin_wakatime_repositories_visibility: all

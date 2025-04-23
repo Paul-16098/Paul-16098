@@ -20,6 +20,7 @@ jobs:
 
           # Options
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_timezone: Etc/GMT-8
           # Plugins Options
           plugin_wakatime: yes
@@ -27,3 +28,5 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_user: Paul_16098
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_gists: yes
+          repositories_forks: yes

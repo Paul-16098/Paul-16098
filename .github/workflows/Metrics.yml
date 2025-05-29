@@ -5,7 +5,7 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   push:
-    paths: .github/workflows/Metrics.yml
+    paths: [.github/workflows/Metrics.yml]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -22,6 +22,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: Etc/GMT-8
+          retries: 5
+          verify: yes
           # Plugins Options
           plugin_wakatime: yes
           plugin_wakatime_languages_other: true
@@ -30,3 +32,4 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_gists: yes
           repositories_forks: yes
+          plugin_calendar: yes

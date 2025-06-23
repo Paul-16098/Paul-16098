@@ -24,6 +24,8 @@ jobs:
           config_timezone: Etc/GMT-8
           retries: 5
           verify: yes
+          config_output: png
+          
           # Plugins Options
           plugin_wakatime: yes
           plugin_wakatime_languages_other: true

@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Paul-16098.
+# 👋 Hello! I'm Paul-16098
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Paul-16098)
 
@@ -13,7 +13,8 @@
 ![[Wakatime Stats](https://wakatime.com/@Paul_16098)](https://github-readme-stats.vercel.app/api/wakatime?username=Paul_16098&locale=cn)
 
 PGP PUBLIC KEY:
-```
+
+```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: 使用者 ID:	梁泓波 <pl816098@gmail.com>
 Comment: 有效自:	18/9/2025 18:39
@@ -40,7 +41,9 @@ EggBANqqITWKlN1nrg5z4igkVZEYuav2dxp7aS3cDrrnTV8P
 =3xVq
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
 SSH PUBLIC KEY:
-```
+
+```text
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGTgHMKVmsKLqVxO2XkkmolNPVa/y393RXhYwsbMD1U9 pl816098@gmail.com
 ```

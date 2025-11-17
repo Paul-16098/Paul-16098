@@ -1,20 +1,34 @@
-# 👋 Hello! I'm Paul-16098
+## 關於我
 
-![Profile Views](https://komarev.com/ghpvc/?username=Paul-16098)
+![個人檢視次數（Profile Views）](https://komarev.com/ghpvc/?username=Paul-16098)
 
-## :chart_with_upwards_trend:Github Stats:chart_with_upwards_trend:
+我是梁泓波，就讀於 VTC-TM FS113371 (職專文憑・資訊科技).
 
-![Metrics](https://github.com/Paul-16098/Paul-16098/raw/main/github-metrics.svg)
+## GitHub 統計
 
-![[Paul-16098's GitHub Stats](https://github.com/Paul-16098)](https://github-readme-stats.vercel.app/api?username=Paul-16098&show_icons=true&count_private=true&locale=cn)
+![Metrics 圖表](https://github.com/Paul-16098/Paul-16098/raw/main/github-metrics.svg)
 
-![[Most Used Languages](https://github.com/Paul-16098)](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-16098&count_private=true&locale=cn)
+<!-- Coding Activity over Last Year -->
 
-![[Wakatime Stats](https://wakatime.com/@Paul_16098)](https://github-readme-stats.vercel.app/api/wakatime?username=Paul_16098&locale=cn)
+[<figure><embed src="https://wakatime.com/share/@Paul_16098/ceee0071-91f4-45ad-a0c7-ed0365ee4cd0.svg"></embed></figure>][ghp]
 
-PGP PUBLIC KEY:
+<!-- Language over Last Year -->
 
-```text
+[<figure><embed src="https://wakatime.com/share/@Paul_16098/755303ef-caed-4f14-bccb-9f38b26ef2ff.svg"></embed></figure>][ghp]
+
+## 聯絡
+
+- Email: [pl816098@gmail.com](mailto:pl816098@gmail.com)
+- discord: `Paul-16098`(`paul_16098`)
+
+---
+
+## 公鑰
+
+<details>
+<summary><strong>PGP 公鑰（點擊展開）</strong></summary>
+
+```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: 使用者 ID:	梁泓波 <pl816098@gmail.com>
 Comment: 有效自:	18/9/2025 18:39
@@ -42,8 +56,15 @@ EggBANqqITWKlN1nrg5z4igkVZEYuav2dxp7aS3cDrrnTV8P
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-SSH PUBLIC KEY:
+</details>
 
-```text
+<details>
+<summary><strong>SSH 公鑰（點擊展開）</strong></summary>
+
+```plaintext
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGTgHMKVmsKLqVxO2XkkmolNPVa/y393RXhYwsbMD1U9 pl816098@gmail.com
 ```
+
+</details>
+
+[ghp]: https://github.com/Paul-16098

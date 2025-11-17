@@ -24,6 +24,7 @@ jobs:
           config_timezone: Etc/GMT-8
           retries: 5
           verify: yes
+          config_output: svg
           
           # Plugins Options
           plugin_gists: yes

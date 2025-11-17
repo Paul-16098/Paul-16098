@@ -6,7 +6,7 @@
 
 ## GitHub 統計
 
-![Metrics 圖表](https://github.com/Paul-16098/Paul-16098/raw/main/github-metrics.svg)
+![Metrics 圖表](https://github.com/Paul-16098/Paul-16098/raw/main/github-metrics.png)
 
 <!-- Coding Activity over Last Year -->
 

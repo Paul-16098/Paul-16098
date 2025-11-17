@@ -10,11 +10,11 @@
 
 <!-- Coding Activity over Last Year -->
 
-[<figure><embed src="https://wakatime.com/share/@Paul_16098/ceee0071-91f4-45ad-a0c7-ed0365ee4cd0.svg"></embed></figure>][ghp]
+[<figure><embed src="https://wakatime.com/share/@Paul_16098/ceee0071-91f4-45ad-a0c7-ed0365ee4cd0.svg"></embed></figure>](https://github.com/Paul-16098)
 
 <!-- Language over Last Year -->
 
-[<figure><embed src="https://wakatime.com/share/@Paul_16098/755303ef-caed-4f14-bccb-9f38b26ef2ff.svg"></embed></figure>][ghp]
+[<figure><embed src="https://wakatime.com/share/@Paul_16098/755303ef-caed-4f14-bccb-9f38b26ef2ff.svg"></embed></figure>](https://github.com/Paul-16098)
 
 ## 聯絡
 
@@ -66,5 +66,3 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGTgHMKVmsKLqVxO2XkkmolNPVa/y393RXhYwsbMD1U9
 ```
 
 </details>
-
-[ghp]: https://github.com/Paul-16098

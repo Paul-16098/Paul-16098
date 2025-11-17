@@ -27,11 +27,6 @@ jobs:
           config_output: png
           
           # Plugins Options
-          plugin_wakatime: yes
-          plugin_wakatime_languages_other: true
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_user: Paul_16098
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_gists: yes
           repositories_forks: yes
           plugin_calendar: yes

@@ -8,13 +8,9 @@
 
 ![Metrics 圖表](https://github.com/Paul-16098/Paul-16098/raw/main/github-metrics.svg)
 
-<!-- Coding Activity over Last Year -->
+![Coding Activity over Last Year](https://wakatime.com/share/@Paul_16098/ceee0071-91f4-45ad-a0c7-ed0365ee4cd0.svg)
 
-[<figure><embed src="https://wakatime.com/share/@Paul_16098/ceee0071-91f4-45ad-a0c7-ed0365ee4cd0.svg"></embed></figure>](https://github.com/Paul-16098)
-
-<!-- Language over Last Year -->
-
-[<figure><embed src="https://wakatime.com/share/@Paul_16098/755303ef-caed-4f14-bccb-9f38b26ef2ff.svg"></embed></figure>](https://github.com/Paul-16098)
+![Language over Last Year](https://wakatime.com/share/@Paul_16098/755303ef-caed-4f14-bccb-9f38b26ef2ff.svg)
 
 ## 聯絡
 

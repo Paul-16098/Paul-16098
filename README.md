@@ -1,6 +1,6 @@
 ## 關於我
 
-![個人檢視次數（Profile Views）](https://komarev.com/ghpvc/?username=Paul-16098)
+![個人檢視次數（Profile Views）](https://komarev.com/ghpvc/?username=Paul-16098) | [![userstyles](https://img.shields.io/badge/userstyles-green)](https://userstyles.world/user/Paul-16098)
 
 我是梁泓波，就讀於 VTC-TM FS113371 (職專文憑・資訊科技).
 
@@ -27,11 +27,11 @@
 
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: 使用者 ID:	梁泓波 <pl816098@gmail.com>
-Comment: 有效自:	18/9/2025 18:39
-Comment: 類型:	255 位元 EdDSA (私鑰可用)
-Comment: 用途:	簽署中, 加密, 正在保證使用者 ID
-Comment: 指紋:	599ADAB8C64E55F46B0817056AF57068AAC77F2B
+Comment: 使用者 ID:    梁泓波 <pl816098@gmail.com>
+Comment: 有效自:    18/9/2025 18:39
+Comment: 類型:    255 位元 EdDSA (私鑰可用)
+Comment: 用途:    簽署中, 加密, 正在保證使用者 ID
+Comment: 指紋:    599ADAB8C64E55F46B0817056AF57068AAC77F2B
 
 
 mDMEaMvhYBYJKwYBBAHaRw8BAQdAcf1aVu3PmbVham8RWsdw9IOO1FOxEDgtPqiL
